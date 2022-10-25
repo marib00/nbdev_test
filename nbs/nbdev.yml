@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://marib00.github.io/nbdev_test"
+  description: "test library"
+  repo-branch: main
+  repo-url: "https://github.com/marib00/nbdev_test"
