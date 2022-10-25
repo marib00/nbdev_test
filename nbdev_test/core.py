@@ -6,4 +6,4 @@ __all__ = ['foo']
 # %% ../nbs/00_core.ipynb 3
 def foo(arg1:int, # 1st arg
         arg2:float): # 2nd arg 
-    print('test')
+    print('test2')
